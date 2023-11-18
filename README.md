@@ -21,4 +21,8 @@
   Car with license plate DEF4567 parked successfully in spot 2
   Car with license plate GHI7890 parked successfully in spot 19
 
+6. used libraries like:
+ * ramdom to generate random number or string
+ * json to create and store into json file
+ * boto3  is used to connect and store data into AWS S3
   #Used IDE replit an online ide
